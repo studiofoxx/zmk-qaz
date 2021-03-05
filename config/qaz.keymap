@@ -7,6 +7,9 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
+#include <dt-bindings/zmk/outputs.h>
+
+&out OUT_BLE
 
 #define DEFAULT 0
 #define NUM_SYM 1
