@@ -38,12 +38,12 @@
             key-positions = <18 19>;
             bindings = <&kp RET>;
         };
-        combo_return {
+        combo_left_parenthesis {
             timeout-ms = <50>;
             key-positions = <3 13>;
             bindings = <&kp LPAR>;
         };
-        combo_return {
+        combo_right_parenthesis {
             timeout-ms = <50>;
             key-positions = <6 16>;
             bindings = <&kp RPAR>;
